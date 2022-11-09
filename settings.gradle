@@ -1,3 +1,4 @@
 include ':app1'
 include ':app'
 rootProject.name = "MyFirstProjects"
+include ':app2'
